@@ -1,8 +1,5 @@
+chat GPT làm
 package bai1;
-/**
- *
- * @author ADMIN
- */
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
