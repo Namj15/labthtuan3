@@ -1,3 +1,4 @@
+chat GPT làm
 package bai1;
 import java.time.LocalDate;
 import java.util.ArrayList;
